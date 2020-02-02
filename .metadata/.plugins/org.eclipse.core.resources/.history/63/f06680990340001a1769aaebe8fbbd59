@@ -1,0 +1,19 @@
+package org.list.com;
+
+public class Main {
+ 
+	public static void main(String[] args) {
+	
+		IntLinkedList list = new IntLinkedList();
+		list.insertitem(3);
+		list.insertitem(23);
+		list.insertitem(56);
+		list.printList();
+		list.sortList();
+		System.out.println("After sortlist");
+		list.printList();
+		System.out.println("After delete the value");
+		list.deleteItem(23);
+		list.printList();
+}
+}

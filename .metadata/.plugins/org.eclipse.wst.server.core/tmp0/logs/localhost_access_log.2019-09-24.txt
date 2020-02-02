@@ -1,0 +1,11 @@
+127.0.0.1 - - [24/Sep/2019:04:36:42 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:36:47 -0400] "GET /Calculater/WEB-INF/View/caln.html HTTP/1.1" 404 992
+127.0.0.1 - - [24/Sep/2019:04:38:23 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:38:24 -0400] "GET /Calculater/WEB-INF/View/caln.html HTTP/1.1" 404 992
+127.0.0.1 - - [24/Sep/2019:04:41:39 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:41:40 -0400] "GET /Calculater/View/Cal.html HTTP/1.1" 200 565
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:44:01 -0400] "GET /Calculater/View/Cal.html HTTP/1.1" 200 623
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:44:47 -0400] "GET /Calculater/View/Cal.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:46:42 -0400] "GET /Calculater/View/Cal.html HTTP/1.1" 200 652
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:47:20 -0400] "GET /Calculater/View/Cal.html HTTP/1.1" 200 652
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:04:54:16 -0400] "GET /Calculater/View/Cal.html HTTP/1.1" 200 689
